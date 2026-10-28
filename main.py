@@ -7,3 +7,4 @@ if mark >= 40:
 else:    
      print("Result: Fail")
 
+print("Thank you for using the program!")
